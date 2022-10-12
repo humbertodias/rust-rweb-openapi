@@ -1,4 +1,4 @@
-# RWeb with openapi
+# Rust with openapi
 
 
 ## Local
