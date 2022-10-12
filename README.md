@@ -1,8 +1,7 @@
-# rust-rweb-openapi
+# RWeb with openapi
 
-RWeb with openapi
 
-# Local
+## Local
 
     cargo run
 
