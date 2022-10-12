@@ -12,7 +12,7 @@ or
 
 Then
 
-    http://localhost:3030/docs
+http://localhost:3030/docs
 
 ## Docker
 
